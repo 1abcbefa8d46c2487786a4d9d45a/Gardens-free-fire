@@ -1,2 +1,1 @@
-# Gardens-free-fire
-Gardens free fire offer free diamond=599
+#garena free fire offer free diamond=599
